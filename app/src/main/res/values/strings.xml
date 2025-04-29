@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FakeStore</string>
+    <string name="could_not_refresh">Could not refresh: %s</string>
+    <string name="unknown_error_occurred">An unknown error occurred</string>
+    <string name="all">All</string>
+    <string name="electronics">Electronics</string>
+    <string name="jewelery">Jewelery</string>
+    <string name="mens_cloth">Mens Cloth</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

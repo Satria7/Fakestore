@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "C:\\Users\\SATRIA\\.gradle\\daemon\\7.3.3\\com.fakestore.app-mergeDebugResources-54:\\layout\\activity_home.xml",
+        "source": "C:\\Users\\SATRIA\\.gradle\\daemon\\7.3.3\\com.fakestore.app-main-57:\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\SATRIA\\.gradle\\daemon\\7.3.3\\com.fakestore.app-mergeDebugResources-54:\\layout\\fragment_signup.xml",
+        "source": "C:\\Users\\SATRIA\\.gradle\\daemon\\7.3.3\\com.fakestore.app-main-57:\\layout\\fragment_signup.xml"
+    },
+    {
+        "merged": "C:\\Users\\SATRIA\\.gradle\\daemon\\7.3.3\\com.fakestore.app-mergeDebugResources-54:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\SATRIA\\.gradle\\daemon\\7.3.3\\com.fakestore.app-main-57:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\SATRIA\\.gradle\\daemon\\7.3.3\\com.fakestore.app-mergeDebugResources-54:\\layout\\layout_circular_loader.xml",
+        "source": "C:\\Users\\SATRIA\\.gradle\\daemon\\7.3.3\\com.fakestore.app-main-57:\\layout\\layout_circular_loader.xml"
+    },
+    {
+        "merged": "C:\\Users\\SATRIA\\.gradle\\daemon\\7.3.3\\com.fakestore.app-mergeDebugResources-54:\\layout\\activity_auth.xml",
+        "source": "C:\\Users\\SATRIA\\.gradle\\daemon\\7.3.3\\com.fakestore.app-main-57:\\layout\\activity_auth.xml"
+    },
+    {
+        "merged": "C:\\Users\\SATRIA\\.gradle\\daemon\\7.3.3\\com.fakestore.app-mergeDebugResources-54:\\layout\\favourite_items.xml",
+        "source": "C:\\Users\\SATRIA\\.gradle\\daemon\\7.3.3\\com.fakestore.app-main-57:\\layout\\favourite_items.xml"
+    },
+    {
+        "merged": "C:\\Users\\SATRIA\\.gradle\\daemon\\7.3.3\\com.fakestore.app-mergeDebugResources-54:\\layout\\fragment_home.xml",
+        "source": "C:\\Users\\SATRIA\\.gradle\\daemon\\7.3.3\\com.fakestore.app-main-57:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\SATRIA\\.gradle\\daemon\\7.3.3\\com.fakestore.app-mergeDebugResources-54:\\layout\\cart_row_layout.xml",
+        "source": "C:\\Users\\SATRIA\\.gradle\\daemon\\7.3.3\\com.fakestore.app-main-57:\\layout\\cart_row_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\SATRIA\\.gradle\\daemon\\7.3.3\\com.fakestore.app-mergeDebugResources-54:\\layout\\product_item.xml",
+        "source": "C:\\Users\\SATRIA\\.gradle\\daemon\\7.3.3\\com.fakestore.app-main-57:\\layout\\product_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\SATRIA\\.gradle\\daemon\\7.3.3\\com.fakestore.app-mergeDebugResources-54:\\layout\\cart_items.xml",
+        "source": "C:\\Users\\SATRIA\\.gradle\\daemon\\7.3.3\\com.fakestore.app-main-57:\\layout\\cart_items.xml"
+    },
+    {
+        "merged": "C:\\Users\\SATRIA\\.gradle\\daemon\\7.3.3\\com.fakestore.app-mergeDebugResources-54:\\layout\\fragment_login.xml",
+        "source": "C:\\Users\\SATRIA\\.gradle\\daemon\\7.3.3\\com.fakestore.app-main-57:\\layout\\fragment_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\SATRIA\\.gradle\\daemon\\7.3.3\\com.fakestore.app-mergeDebugResources-54:\\layout\\favourite_item_row.xml",
+        "source": "C:\\Users\\SATRIA\\.gradle\\daemon\\7.3.3\\com.fakestore.app-main-57:\\layout\\favourite_item_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\SATRIA\\.gradle\\daemon\\7.3.3\\com.fakestore.app-mergeDebugResources-54:\\layout\\layout_home_top_app_bar.xml",
+        "source": "C:\\Users\\SATRIA\\.gradle\\daemon\\7.3.3\\com.fakestore.app-main-57:\\layout\\layout_home_top_app_bar.xml"
+    },
+    {
+        "merged": "com.fakestore.app-mergeDebugResources-54:/layout/cart_items.xml",
+        "source": "com.fakestore.app-main-57:/layout/cart_items.xml"
+    },
+    {
+        "merged": "C:\\Users\\SATRIA\\.gradle\\daemon\\7.3.3\\com.fakestore.app-mergeDebugResources-54:\\layout\\home_list_item_layout.xml",
+        "source": "C:\\Users\\SATRIA\\.gradle\\daemon\\7.3.3\\com.fakestore.app-main-57:\\layout\\home_list_item_layout.xml"
+    }
+]

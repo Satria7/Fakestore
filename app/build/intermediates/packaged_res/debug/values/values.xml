@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/tools">
+    <color name="black">#FF000000</color>
+    <color name="blue_200">#4284ed</color>
+    <color name="blue_500">#004dca</color>
+    <color name="blue_accent_300">#02d5ee</color>
+    <color name="blue_shadow_color">#B9DADF</color>
+    <color name="darkGray">#858585</color>
+    <color name="dark_gray">#505050</color>
+    <color name="gold">#FFD770</color>
+    <color name="gray">#999999</color>
+    <color name="green_500">#018786</color>
+    <color name="holo_red_light">#ff4444</color>
+    <color name="light_gray">#CCCCCC</color>
+    <color name="loader_background_color">#55AAAAAA</color>
+    <color name="mediumGray">#DEDEDE</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="red_600">#b00020</color>
+    <color name="redprimary">#ffcc0000</color>
+    <color name="redsecondary">#DA2E2E</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="transparent">#00000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <dimen name="big_padding">16dp</dimen>
+    <dimen name="card_bottom_margin">26dp</dimen>
+    <dimen name="card_corner_radius">12dp</dimen>
+    <dimen name="card_elevation">2dp</dimen>
+    <dimen name="card_side_margin">12dp</dimen>
+    <dimen name="fab_bottom_padding">72dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="gallery_header_margin">72dp</dimen>
+    <dimen name="header_margin">24dp</dimen>
+    <dimen name="margin_extra_small">4dp</dimen>
+    <dimen name="margin_normal">16dp</dimen>
+    <dimen name="margin_small">8dp</dimen>
+    <dimen name="padding_large">48dp</dimen>
+    <dimen name="plant_description_min_height">555dp</dimen>
+    <dimen name="plant_detail_app_bar_height">278dp</dimen>
+    <dimen name="plant_item_image_height">95dp</dimen>
+    <dimen name="toolbar_elevation">5dp</dimen>
+    <integer name="grid_columns">2</integer>
+    <string name="all">All</string>
+    <string name="app_name">FakeStore</string>
+    <string name="could_not_refresh">Could not refresh: %s</string>
+    <string name="electronics">Electronics</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="jewelery">Jewelery</string>
+    <string name="mens_cloth">Mens Cloth</string>
+    <string name="unknown_error_occurred">An unknown error occurred</string>
+    <style name="CustomChipStyle" parent="Widget.MaterialComponents.Chip.Filter">
+        <item name="chipBackgroundColor">@color/chip_background_color</item>
+        <item name="android:textColor">@color/chip_text_color</item>
+    </style>
+    <style name="Theme.FakeStore" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        
+        <item name="colorPrimary">@color/redsecondary</item>
+        <item name="colorPrimaryVariant">@color/redprimary</item>
+        <item name="colorOnPrimary">@color/white</item>
+        
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_700</item>
+        <item name="colorOnSecondary">@color/black</item>
+        
+        <item name="android:statusBarColor" ns1:targetApi="l">?attr/colorPrimaryVariant</item>
+        <item name="textInputStyle">@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox</item>
+        
+    </style>
+    <style name="word_title">
+        <item name="android:layout_marginBottom">8dp</item>
+        <item name="android:paddingLeft">8dp</item>
+        <item name="android:background">@android:color/holo_orange_light</item>
+        <item name="android:textAppearance">@android:style/TextAppearance.Large</item>
+    </style>
+</resources>

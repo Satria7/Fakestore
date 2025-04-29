@@ -1,0 +1,119 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.fakestore"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->C:\Users\SATRIA\Documents\fakestore\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="32" />
+9-->C:\Users\SATRIA\Documents\fakestore\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->C:\Users\SATRIA\Documents\fakestore\app\src\main\AndroidManifest.xml:6:5-67
+11-->C:\Users\SATRIA\Documents\fakestore\app\src\main\AndroidManifest.xml:6:22-64
+12    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+12-->C:\Users\SATRIA\Documents\fakestore\app\src\main\AndroidManifest.xml:7:5-79
+12-->C:\Users\SATRIA\Documents\fakestore\app\src\main\AndroidManifest.xml:7:22-76
+13
+14    <application
+14-->C:\Users\SATRIA\Documents\fakestore\app\src\main\AndroidManifest.xml:9:5-35:19
+15        android:name="com.fakestore.StoreApplication"
+15-->C:\Users\SATRIA\Documents\fakestore\app\src\main\AndroidManifest.xml:10:9-41
+16        android:allowBackup="true"
+16-->C:\Users\SATRIA\Documents\fakestore\app\src\main\AndroidManifest.xml:11:9-35
+17        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+17-->[androidx.core:core:1.8.0] C:\Users\SATRIA\.gradle\caches\transforms-3\6564d7923b84499bd4afae17f8b385a4\transformed\core-1.8.0\AndroidManifest.xml:24:18-86
+18        android:dataExtractionRules="@xml/data_extraction_rules"
+18-->C:\Users\SATRIA\Documents\fakestore\app\src\main\AndroidManifest.xml:12:9-65
+19        android:debuggable="true"
+20        android:fullBackupContent="@xml/backup_rules"
+20-->C:\Users\SATRIA\Documents\fakestore\app\src\main\AndroidManifest.xml:13:9-54
+21        android:icon="@mipmap/ic_launcher"
+21-->C:\Users\SATRIA\Documents\fakestore\app\src\main\AndroidManifest.xml:14:9-43
+22        android:label="@string/app_name"
+22-->C:\Users\SATRIA\Documents\fakestore\app\src\main\AndroidManifest.xml:15:9-41
+23        android:roundIcon="@mipmap/ic_launcher_round"
+23-->C:\Users\SATRIA\Documents\fakestore\app\src\main\AndroidManifest.xml:16:9-54
+24        android:supportsRtl="true"
+24-->C:\Users\SATRIA\Documents\fakestore\app\src\main\AndroidManifest.xml:17:9-35
+25        android:testOnly="true"
+26        android:theme="@style/Theme.FakeStore" >
+26-->C:\Users\SATRIA\Documents\fakestore\app\src\main\AndroidManifest.xml:18:9-47
+27        <activity
+27-->C:\Users\SATRIA\Documents\fakestore\app\src\main\AndroidManifest.xml:20:9-22:40
+28            android:name="com.fakestore.ui.Home.HomeActivity"
+28-->C:\Users\SATRIA\Documents\fakestore\app\src\main\AndroidManifest.xml:21:13-49
+29            android:exported="false" />
+29-->C:\Users\SATRIA\Documents\fakestore\app\src\main\AndroidManifest.xml:22:13-37
+30        <activity
+30-->C:\Users\SATRIA\Documents\fakestore\app\src\main\AndroidManifest.xml:23:9-25:40
+31            android:name="com.fakestore.ui.Auth.AuthActivity"
+31-->C:\Users\SATRIA\Documents\fakestore\app\src\main\AndroidManifest.xml:24:13-49
+32            android:exported="false" />
+32-->C:\Users\SATRIA\Documents\fakestore\app\src\main\AndroidManifest.xml:25:13-37
+33        <activity
+33-->C:\Users\SATRIA\Documents\fakestore\app\src\main\AndroidManifest.xml:26:9-34:20
+34            android:name="com.fakestore.MainActivity"
+34-->C:\Users\SATRIA\Documents\fakestore\app\src\main\AndroidManifest.xml:27:13-41
+35            android:exported="true" >
+35-->C:\Users\SATRIA\Documents\fakestore\app\src\main\AndroidManifest.xml:28:13-36
+36            <intent-filter>
+36-->C:\Users\SATRIA\Documents\fakestore\app\src\main\AndroidManifest.xml:29:13-33:29
+37                <action android:name="android.intent.action.MAIN" />
+37-->C:\Users\SATRIA\Documents\fakestore\app\src\main\AndroidManifest.xml:30:17-69
+37-->C:\Users\SATRIA\Documents\fakestore\app\src\main\AndroidManifest.xml:30:25-66
+38
+39                <category android:name="android.intent.category.LAUNCHER" />
+39-->C:\Users\SATRIA\Documents\fakestore\app\src\main\AndroidManifest.xml:32:17-77
+39-->C:\Users\SATRIA\Documents\fakestore\app\src\main\AndroidManifest.xml:32:27-74
+40            </intent-filter>
+41        </activity>
+42
+43        <service
+43-->[androidx.room:room-runtime:2.5.0-alpha02] C:\Users\SATRIA\.gradle\caches\transforms-3\f1beabf0288bfba0c67d73c6fce90667\transformed\room-runtime-2.5.0-alpha02\AndroidManifest.xml:25:9-29:63
+44            android:name="androidx.room.MultiInstanceInvalidationService"
+44-->[androidx.room:room-runtime:2.5.0-alpha02] C:\Users\SATRIA\.gradle\caches\transforms-3\f1beabf0288bfba0c67d73c6fce90667\transformed\room-runtime-2.5.0-alpha02\AndroidManifest.xml:26:13-74
+45            android:directBootAware="true"
+45-->[androidx.room:room-runtime:2.5.0-alpha02] C:\Users\SATRIA\.gradle\caches\transforms-3\f1beabf0288bfba0c67d73c6fce90667\transformed\room-runtime-2.5.0-alpha02\AndroidManifest.xml:27:13-43
+46            android:exported="false" />
+46-->[androidx.room:room-runtime:2.5.0-alpha02] C:\Users\SATRIA\.gradle\caches\transforms-3\f1beabf0288bfba0c67d73c6fce90667\transformed\room-runtime-2.5.0-alpha02\AndroidManifest.xml:28:13-37
+47
+48        <uses-library
+48-->[androidx.window:window:1.0.0] C:\Users\SATRIA\.gradle\caches\transforms-3\f345d774bfe5fedb039f0a28cd929b2c\transformed\window-1.0.0\AndroidManifest.xml:25:9-27:40
+49            android:name="androidx.window.extensions"
+49-->[androidx.window:window:1.0.0] C:\Users\SATRIA\.gradle\caches\transforms-3\f345d774bfe5fedb039f0a28cd929b2c\transformed\window-1.0.0\AndroidManifest.xml:26:13-54
+50            android:required="false" />
+50-->[androidx.window:window:1.0.0] C:\Users\SATRIA\.gradle\caches\transforms-3\f345d774bfe5fedb039f0a28cd929b2c\transformed\window-1.0.0\AndroidManifest.xml:27:13-37
+51        <uses-library
+51-->[androidx.window:window:1.0.0] C:\Users\SATRIA\.gradle\caches\transforms-3\f345d774bfe5fedb039f0a28cd929b2c\transformed\window-1.0.0\AndroidManifest.xml:28:9-30:40
+52            android:name="androidx.window.sidecar"
+52-->[androidx.window:window:1.0.0] C:\Users\SATRIA\.gradle\caches\transforms-3\f345d774bfe5fedb039f0a28cd929b2c\transformed\window-1.0.0\AndroidManifest.xml:29:13-51
+53            android:required="false" />
+53-->[androidx.window:window:1.0.0] C:\Users\SATRIA\.gradle\caches\transforms-3\f345d774bfe5fedb039f0a28cd929b2c\transformed\window-1.0.0\AndroidManifest.xml:30:13-37
+54
+55        <provider
+55-->[androidx.emoji2:emoji2:1.0.0] C:\Users\SATRIA\.gradle\caches\transforms-3\8b0ffd963a6855629b9e8ef79bca6760\transformed\emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
+56            android:name="androidx.startup.InitializationProvider"
+56-->[androidx.emoji2:emoji2:1.0.0] C:\Users\SATRIA\.gradle\caches\transforms-3\8b0ffd963a6855629b9e8ef79bca6760\transformed\emoji2-1.0.0\AndroidManifest.xml:27:13-67
+57            android:authorities="com.fakestore.androidx-startup"
+57-->[androidx.emoji2:emoji2:1.0.0] C:\Users\SATRIA\.gradle\caches\transforms-3\8b0ffd963a6855629b9e8ef79bca6760\transformed\emoji2-1.0.0\AndroidManifest.xml:28:13-68
+58            android:exported="false" >
+58-->[androidx.emoji2:emoji2:1.0.0] C:\Users\SATRIA\.gradle\caches\transforms-3\8b0ffd963a6855629b9e8ef79bca6760\transformed\emoji2-1.0.0\AndroidManifest.xml:29:13-37
+59            <meta-data
+59-->[androidx.emoji2:emoji2:1.0.0] C:\Users\SATRIA\.gradle\caches\transforms-3\8b0ffd963a6855629b9e8ef79bca6760\transformed\emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
+60                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+60-->[androidx.emoji2:emoji2:1.0.0] C:\Users\SATRIA\.gradle\caches\transforms-3\8b0ffd963a6855629b9e8ef79bca6760\transformed\emoji2-1.0.0\AndroidManifest.xml:32:17-75
+61                android:value="androidx.startup" />
+61-->[androidx.emoji2:emoji2:1.0.0] C:\Users\SATRIA\.gradle\caches\transforms-3\8b0ffd963a6855629b9e8ef79bca6760\transformed\emoji2-1.0.0\AndroidManifest.xml:33:17-49
+62            <meta-data
+62-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\SATRIA\.gradle\caches\transforms-3\e4caf8f6f55572bf0fb5a1b885b199d8\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
+63                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+63-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\SATRIA\.gradle\caches\transforms-3\e4caf8f6f55572bf0fb5a1b885b199d8\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78
+64                android:value="androidx.startup" />
+64-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\SATRIA\.gradle\caches\transforms-3\e4caf8f6f55572bf0fb5a1b885b199d8\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
+65        </provider>
+66    </application>
+67
+68</manifest>

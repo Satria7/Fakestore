@@ -1,0 +1,1 @@
+[{"navFile":"src\\main\\res\\navigation\\nav_auth.xml","javaFiles":["com.fakestore.ui.Auth.LoginFragmentDirections","com.fakestore.ui.Auth.SignupFragmentDirections"]},{"navFile":"src\\main\\res\\navigation\\nav_graph.xml","javaFiles":["com.fakestore.ui.HomeFragmentDirections","com.fakestore.ui.ProductItemFragmentArgs"]}]

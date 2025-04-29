@@ -1,0 +1,379 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\SATRIA\Documents\fakestore\app\src\main\AndroidManifest.xml:2:1-37:12
+INJECTED from C:\Users\SATRIA\Documents\fakestore\app\src\main\AndroidManifest.xml:2:1-37:12
+INJECTED from C:\Users\SATRIA\Documents\fakestore\app\src\main\AndroidManifest.xml:2:1-37:12
+INJECTED from C:\Users\SATRIA\Documents\fakestore\app\src\main\AndroidManifest.xml:2:1-37:12
+MERGED from [androidx.databinding:viewbinding:7.2.1] C:\Users\SATRIA\.gradle\caches\transforms-3\5b33d7aa4877f683a7b2c2a4a12b6a62\transformed\viewbinding-7.2.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.room:room-ktx:2.5.0-alpha02] C:\Users\SATRIA\.gradle\caches\transforms-3\e90d3817b6aa79eda0812260d30db6f7\transformed\room-ktx-2.5.0-alpha02\AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.room:room-runtime:2.5.0-alpha02] C:\Users\SATRIA\.gradle\caches\transforms-3\f1beabf0288bfba0c67d73c6fce90667\transformed\room-runtime-2.5.0-alpha02\AndroidManifest.xml:17:1-32:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.5.0] C:\Users\SATRIA\.gradle\caches\transforms-3\c350abaf7e840bdeb2006d9753c5d048\transformed\lifecycle-livedata-ktx-2.5.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.datastore:datastore-preferences:1.0.0] C:\Users\SATRIA\.gradle\caches\transforms-3\0fd162372b0216ee2e8bb71663eaf89d\transformed\datastore-preferences-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.datastore:datastore:1.0.0] C:\Users\SATRIA\.gradle\caches\transforms-3\97de323d9fdd6660893aabd349d89e23\transformed\datastore-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-fragment:2.5.0] C:\Users\SATRIA\.gradle\caches\transforms-3\732b8f550766e910e053060bd0697c5a\transformed\navigation-fragment-2.5.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment-ktx:1.5.0] C:\Users\SATRIA\.gradle\caches\transforms-3\b9eff171e8238141b19d481975d9f07d\transformed\fragment-ktx-1.5.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-ui-ktx:2.5.0] C:\Users\SATRIA\.gradle\caches\transforms-3\c318262346514b5efad0427726098b72\transformed\navigation-ui-ktx-2.5.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.5.0] C:\Users\SATRIA\.gradle\caches\transforms-3\ff12dd874eff27b22f17f09761a78869\transformed\navigation-runtime-ktx-2.5.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-ui:2.5.0] C:\Users\SATRIA\.gradle\caches\transforms-3\37260fe09896252375414f26121727e0\transformed\navigation-ui-2.5.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime:2.5.0] C:\Users\SATRIA\.gradle\caches\transforms-3\31f3ebc669896107aaf5e01f08000a75\transformed\navigation-runtime-2.5.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity-ktx:1.5.0] C:\Users\SATRIA\.gradle\caches\transforms-3\f9baf9e33449903e337a67cfea3d64b0\transformed\activity-ktx-1.5.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common-ktx:2.5.0] C:\Users\SATRIA\.gradle\caches\transforms-3\e01f3263606d4d1ac7ecb17f582bdae8\transformed\navigation-common-ktx-2.5.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common:2.5.0] C:\Users\SATRIA\.gradle\caches\transforms-3\673c650e737e3357b1e060be7c78518c\transformed\navigation-common-2.5.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.5.0] C:\Users\SATRIA\.gradle\caches\transforms-3\972b8ac7a30dd8da61511efe9dbef8b8\transformed\lifecycle-viewmodel-ktx-2.5.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.5.0] C:\Users\SATRIA\.gradle\caches\transforms-3\d37c5cc384e68df3915676d322eaefaa\transformed\lifecycle-runtime-ktx-2.5.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] C:\Users\SATRIA\.gradle\caches\transforms-3\985492afd4cd643de2f16687a380404c\transformed\slidingpanelayout-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.window:window:1.0.0] C:\Users\SATRIA\.gradle\caches\transforms-3\f345d774bfe5fedb039f0a28cd929b2c\transformed\window-1.0.0\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.hilt:hilt-lifecycle-viewmodel:1.0.0-alpha03] C:\Users\SATRIA\.gradle\caches\transforms-3\3d4813ec5c64e6bd4c4d8eca7ae7cd6f\transformed\hilt-lifecycle-viewmodel-1.0.0-alpha03\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.dagger:hilt-android:2.40] C:\Users\SATRIA\.gradle\caches\transforms-3\0be5aca8a7fd3f0789105bab4b3f41ee\transformed\hilt-android-2.40\AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.material:material:1.6.1] C:\Users\SATRIA\.gradle\caches\transforms-3\cafcbfb59a1afda3963fc1889c762531\transformed\material-1.6.1\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\SATRIA\.gradle\caches\transforms-3\e02c3afd489b2885f7a061ddfa03071c\transformed\constraintlayout-2.1.4\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.4.2] C:\Users\SATRIA\.gradle\caches\transforms-3\429e6faa72df009b3b9f33088e207122\transformed\appcompat-1.4.2\AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.bumptech.glide:glide:4.13.2] C:\Users\SATRIA\.gradle\caches\transforms-3\4c4d2bd332a14e1d57cb43ab9c1fef0a\transformed\glide-4.13.2\AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\SATRIA\.gradle\caches\transforms-3\74123350abdad2bb9996520446380138\transformed\viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.5.0] C:\Users\SATRIA\.gradle\caches\transforms-3\19550a046d78c03263587734756669c2\transformed\fragment-1.5.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.5.0] C:\Users\SATRIA\.gradle\caches\transforms-3\8cf2780d854872c3d049db714e7c2092\transformed\activity-1.5.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\SATRIA\.gradle\caches\transforms-3\961e5a324c75f45cd0090468cecf8f9c\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\SATRIA\.gradle\caches\transforms-3\0921f3d307caa3abe25f502fb5b6f280\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\SATRIA\.gradle\caches\transforms-3\71d93f38784a705221aee43d1e7d3630\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.0] C:\Users\SATRIA\.gradle\caches\transforms-3\85730f9f155ed9c8458ae7b3461e5c85\transformed\lifecycle-viewmodel-2.5.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.0] C:\Users\SATRIA\.gradle\caches\transforms-3\1790cc2945c600301108baf703209f8b\transformed\lifecycle-viewmodel-savedstate-2.5.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.8.0] C:\Users\SATRIA\.gradle\caches\transforms-3\e8428ec073b91f66bf726ea88a99e3ff\transformed\core-ktx-1.8.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\SATRIA\.gradle\caches\transforms-3\75e5a951f1383c796c803974b35ec802\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] C:\Users\SATRIA\.gradle\caches\transforms-3\9bd65588987368c112b58df7db74b688\transformed\swiperefreshlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\SATRIA\.gradle\caches\transforms-3\d0f22bf28b7e7a2f65093aaebef809ca\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\SATRIA\.gradle\caches\transforms-3\546de10b27d775e25c09202043cf848e\transformed\drawerlayout-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.4.2] C:\Users\SATRIA\.gradle\caches\transforms-3\8182a2a1601ce02125795d78baea7ed6\transformed\appcompat-resources-1.4.2\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\SATRIA\.gradle\caches\transforms-3\e79a0bacb0a816b563f506f889b5a700\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\SATRIA\.gradle\caches\transforms-3\d9ceb43e2fb343981f82b98843c0a412\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] C:\Users\SATRIA\.gradle\caches\transforms-3\885a2380e4612744031984dfecf19112\transformed\emoji2-views-helper-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\SATRIA\.gradle\caches\transforms-3\8b0ffd963a6855629b9e8ef79bca6760\transformed\emoji2-1.0.0\AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\SATRIA\.gradle\caches\transforms-3\6fa6624b609632a1ba91e3a83fab3c07\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\SATRIA\.gradle\caches\transforms-3\66e3b3fbb21b8766b630871ad88d9a18\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\SATRIA\.gradle\caches\transforms-3\a83b99162a7232770aa36dff424ac407\transformed\customview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.4.1] C:\Users\SATRIA\.gradle\caches\transforms-3\2f2f44564b22ebc3578e8dab17070699\transformed\transition-1.4.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.8.0] C:\Users\SATRIA\.gradle\caches\transforms-3\6564d7923b84499bd4afae17f8b385a4\transformed\core-1.8.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\SATRIA\.gradle\caches\transforms-3\f1ade91d01af2124f31496edd25cf910\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\SATRIA\.gradle\caches\transforms-3\07021a7634e73b684c7b0b94117f14a0\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite-framework:2.3.0-alpha03] C:\Users\SATRIA\.gradle\caches\transforms-3\79468fcd8cfe15d6ad82d9ec84e11d20\transformed\sqlite-framework-2.3.0-alpha03\AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.sqlite:sqlite:2.3.0-alpha03] C:\Users\SATRIA\.gradle\caches\transforms-3\1e38c5398ac9ee249643c6549d939d0c\transformed\sqlite-2.3.0-alpha03\AndroidManifest.xml:17:1-23:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.13.2] C:\Users\SATRIA\.gradle\caches\transforms-3\1ebed70494a71c3ab5dde2babd10e242\transformed\gifdecoder-4.13.2\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.exifinterface:exifinterface:1.2.0] C:\Users\SATRIA\.gradle\caches\transforms-3\917e3d64453720d42c2a184f6ea14081\transformed\exifinterface-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\SATRIA\.gradle\caches\transforms-3\e4caf8f6f55572bf0fb5a1b885b199d8\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\SATRIA\.gradle\caches\transforms-3\b3849e69e63d7d9398aa0180d443f9fa\transformed\startup-runtime-1.0.0\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\SATRIA\.gradle\caches\transforms-3\47e4f9d54e9508fa72b20f7e74b2bffc\transformed\tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\SATRIA\.gradle\caches\transforms-3\b61747f1995b5e5bcee43df6c84494d6\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.5.0] C:\Users\SATRIA\.gradle\caches\transforms-3\3cbaf3e187fb8cfd02eb895b368275b7\transformed\lifecycle-livedata-2.5.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.5.0] C:\Users\SATRIA\.gradle\caches\transforms-3\5b4636d90ff8d7d0318416f02803bbf5\transformed\lifecycle-livedata-core-ktx-2.5.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.0] C:\Users\SATRIA\.gradle\caches\transforms-3\48876a1891f21a994207afc0db905896\transformed\lifecycle-livedata-core-2.5.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.0] C:\Users\SATRIA\.gradle\caches\transforms-3\c337a7c1a0893315151c980c0588b907\transformed\lifecycle-runtime-2.5.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\SATRIA\.gradle\caches\transforms-3\8a81ba00daf10719ebaf1f039e331e79\transformed\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.0] C:\Users\SATRIA\.gradle\caches\transforms-3\3c6df8026dc748e8d056e7cace669b6f\transformed\savedstate-ktx-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.2.0] C:\Users\SATRIA\.gradle\caches\transforms-3\44345846316ffff669ac1c5cb94f9cc2\transformed\savedstate-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\SATRIA\.gradle\caches\transforms-3\41f6cd3d4b43e4e0b98c444d969cdac2\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\SATRIA\.gradle\caches\transforms-3\e702a0dd74c6d96e6ae841161d048cf6\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\SATRIA\.gradle\caches\transforms-3\949c4847ef24fb7cd41faeff01d5dd08\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\SATRIA\.gradle\caches\transforms-3\92b44b9287a2ea618af6a97638c22adb\transformed\annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.dagger:dagger-lint-aar:2.40] C:\Users\SATRIA\.gradle\caches\transforms-3\c29e71b6cca9cfa70d5af7c048cb2a64\transformed\dagger-lint-aar-2.40\AndroidManifest.xml:16:1-19:12
+INJECTED from C:\Users\SATRIA\Documents\fakestore\app\src\main\AndroidManifest.xml:2:1-37:12
+INJECTED from C:\Users\SATRIA\Documents\fakestore\app\src\main\AndroidManifest.xml:2:1-37:12
+INJECTED from C:\Users\SATRIA\Documents\fakestore\app\src\main\AndroidManifest.xml:2:1-37:12
+	package
+		ADDED from C:\Users\SATRIA\Documents\fakestore\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from C:\Users\SATRIA\Documents\fakestore\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\SATRIA\Documents\fakestore\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\SATRIA\Documents\fakestore\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\SATRIA\Documents\fakestore\app\src\main\AndroidManifest.xml:2:1-37:12
+		INJECTED from C:\Users\SATRIA\Documents\fakestore\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\SATRIA\Documents\fakestore\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\Users\SATRIA\Documents\fakestore\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\SATRIA\Documents\fakestore\app\src\main\AndroidManifest.xml:2:1-37:12
+		INJECTED from C:\Users\SATRIA\Documents\fakestore\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\SATRIA\Documents\fakestore\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\SATRIA\Documents\fakestore\app\src\main\AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from C:\Users\SATRIA\Documents\fakestore\app\src\main\AndroidManifest.xml:6:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\SATRIA\Documents\fakestore\app\src\main\AndroidManifest.xml:7:5-79
+	android:name
+		ADDED from C:\Users\SATRIA\Documents\fakestore\app\src\main\AndroidManifest.xml:7:22-76
+application
+ADDED from C:\Users\SATRIA\Documents\fakestore\app\src\main\AndroidManifest.xml:9:5-35:19
+MERGED from [androidx.room:room-runtime:2.5.0-alpha02] C:\Users\SATRIA\.gradle\caches\transforms-3\f1beabf0288bfba0c67d73c6fce90667\transformed\room-runtime-2.5.0-alpha02\AndroidManifest.xml:24:5-30:19
+MERGED from [androidx.room:room-runtime:2.5.0-alpha02] C:\Users\SATRIA\.gradle\caches\transforms-3\f1beabf0288bfba0c67d73c6fce90667\transformed\room-runtime-2.5.0-alpha02\AndroidManifest.xml:24:5-30:19
+MERGED from [androidx.window:window:1.0.0] C:\Users\SATRIA\.gradle\caches\transforms-3\f345d774bfe5fedb039f0a28cd929b2c\transformed\window-1.0.0\AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.window:window:1.0.0] C:\Users\SATRIA\.gradle\caches\transforms-3\f345d774bfe5fedb039f0a28cd929b2c\transformed\window-1.0.0\AndroidManifest.xml:24:5-31:19
+MERGED from [com.google.android.material:material:1.6.1] C:\Users\SATRIA\.gradle\caches\transforms-3\cafcbfb59a1afda3963fc1889c762531\transformed\material-1.6.1\AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.material:material:1.6.1] C:\Users\SATRIA\.gradle\caches\transforms-3\cafcbfb59a1afda3963fc1889c762531\transformed\material-1.6.1\AndroidManifest.xml:24:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\SATRIA\.gradle\caches\transforms-3\e02c3afd489b2885f7a061ddfa03071c\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\SATRIA\.gradle\caches\transforms-3\e02c3afd489b2885f7a061ddfa03071c\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:glide:4.13.2] C:\Users\SATRIA\.gradle\caches\transforms-3\4c4d2bd332a14e1d57cb43ab9c1fef0a\transformed\glide-4.13.2\AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.13.2] C:\Users\SATRIA\.gradle\caches\transforms-3\4c4d2bd332a14e1d57cb43ab9c1fef0a\transformed\glide-4.13.2\AndroidManifest.xml:10:5-20
+MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\SATRIA\.gradle\caches\transforms-3\8b0ffd963a6855629b9e8ef79bca6760\transformed\emoji2-1.0.0\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\SATRIA\.gradle\caches\transforms-3\8b0ffd963a6855629b9e8ef79bca6760\transformed\emoji2-1.0.0\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.core:core:1.8.0] C:\Users\SATRIA\.gradle\caches\transforms-3\6564d7923b84499bd4afae17f8b385a4\transformed\core-1.8.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.8.0] C:\Users\SATRIA\.gradle\caches\transforms-3\6564d7923b84499bd4afae17f8b385a4\transformed\core-1.8.0\AndroidManifest.xml:24:5-89
+MERGED from [com.github.bumptech.glide:gifdecoder:4.13.2] C:\Users\SATRIA\.gradle\caches\transforms-3\1ebed70494a71c3ab5dde2babd10e242\transformed\gifdecoder-4.13.2\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.13.2] C:\Users\SATRIA\.gradle\caches\transforms-3\1ebed70494a71c3ab5dde2babd10e242\transformed\gifdecoder-4.13.2\AndroidManifest.xml:9:5-20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\SATRIA\.gradle\caches\transforms-3\e4caf8f6f55572bf0fb5a1b885b199d8\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\SATRIA\.gradle\caches\transforms-3\e4caf8f6f55572bf0fb5a1b885b199d8\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\SATRIA\.gradle\caches\transforms-3\b3849e69e63d7d9398aa0180d443f9fa\transformed\startup-runtime-1.0.0\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\SATRIA\.gradle\caches\transforms-3\b3849e69e63d7d9398aa0180d443f9fa\transformed\startup-runtime-1.0.0\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\SATRIA\.gradle\caches\transforms-3\b61747f1995b5e5bcee43df6c84494d6\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\SATRIA\.gradle\caches\transforms-3\b61747f1995b5e5bcee43df6c84494d6\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.8.0] C:\Users\SATRIA\.gradle\caches\transforms-3\6564d7923b84499bd4afae17f8b385a4\transformed\core-1.8.0\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from C:\Users\SATRIA\Documents\fakestore\app\src\main\AndroidManifest.xml:17:9-35
+	android:label
+		ADDED from C:\Users\SATRIA\Documents\fakestore\app\src\main\AndroidManifest.xml:15:9-41
+	android:fullBackupContent
+		ADDED from C:\Users\SATRIA\Documents\fakestore\app\src\main\AndroidManifest.xml:13:9-54
+	android:roundIcon
+		ADDED from C:\Users\SATRIA\Documents\fakestore\app\src\main\AndroidManifest.xml:16:9-54
+	tools:targetApi
+		ADDED from C:\Users\SATRIA\Documents\fakestore\app\src\main\AndroidManifest.xml:19:9-29
+	android:icon
+		ADDED from C:\Users\SATRIA\Documents\fakestore\app\src\main\AndroidManifest.xml:14:9-43
+	android:allowBackup
+		ADDED from C:\Users\SATRIA\Documents\fakestore\app\src\main\AndroidManifest.xml:11:9-35
+	android:theme
+		ADDED from C:\Users\SATRIA\Documents\fakestore\app\src\main\AndroidManifest.xml:18:9-47
+	android:dataExtractionRules
+		ADDED from C:\Users\SATRIA\Documents\fakestore\app\src\main\AndroidManifest.xml:12:9-65
+	android:name
+		ADDED from C:\Users\SATRIA\Documents\fakestore\app\src\main\AndroidManifest.xml:10:9-41
+activity#com.fakestore.ui.Home.HomeActivity
+ADDED from C:\Users\SATRIA\Documents\fakestore\app\src\main\AndroidManifest.xml:20:9-22:40
+	android:exported
+		ADDED from C:\Users\SATRIA\Documents\fakestore\app\src\main\AndroidManifest.xml:22:13-37
+	android:name
+		ADDED from C:\Users\SATRIA\Documents\fakestore\app\src\main\AndroidManifest.xml:21:13-49
+activity#com.fakestore.ui.Auth.AuthActivity
+ADDED from C:\Users\SATRIA\Documents\fakestore\app\src\main\AndroidManifest.xml:23:9-25:40
+	android:exported
+		ADDED from C:\Users\SATRIA\Documents\fakestore\app\src\main\AndroidManifest.xml:25:13-37
+	android:name
+		ADDED from C:\Users\SATRIA\Documents\fakestore\app\src\main\AndroidManifest.xml:24:13-49
+activity#com.fakestore.MainActivity
+ADDED from C:\Users\SATRIA\Documents\fakestore\app\src\main\AndroidManifest.xml:26:9-34:20
+	android:exported
+		ADDED from C:\Users\SATRIA\Documents\fakestore\app\src\main\AndroidManifest.xml:28:13-36
+	android:name
+		ADDED from C:\Users\SATRIA\Documents\fakestore\app\src\main\AndroidManifest.xml:27:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\SATRIA\Documents\fakestore\app\src\main\AndroidManifest.xml:29:13-33:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\SATRIA\Documents\fakestore\app\src\main\AndroidManifest.xml:30:17-69
+	android:name
+		ADDED from C:\Users\SATRIA\Documents\fakestore\app\src\main\AndroidManifest.xml:30:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\SATRIA\Documents\fakestore\app\src\main\AndroidManifest.xml:32:17-77
+	android:name
+		ADDED from C:\Users\SATRIA\Documents\fakestore\app\src\main\AndroidManifest.xml:32:27-74
+uses-sdk
+INJECTED from C:\Users\SATRIA\Documents\fakestore\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\SATRIA\Documents\fakestore\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\SATRIA\Documents\fakestore\app\src\main\AndroidManifest.xml
+MERGED from [androidx.databinding:viewbinding:7.2.1] C:\Users\SATRIA\.gradle\caches\transforms-3\5b33d7aa4877f683a7b2c2a4a12b6a62\transformed\viewbinding-7.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.databinding:viewbinding:7.2.1] C:\Users\SATRIA\.gradle\caches\transforms-3\5b33d7aa4877f683a7b2c2a4a12b6a62\transformed\viewbinding-7.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-ktx:2.5.0-alpha02] C:\Users\SATRIA\.gradle\caches\transforms-3\e90d3817b6aa79eda0812260d30db6f7\transformed\room-ktx-2.5.0-alpha02\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.room:room-ktx:2.5.0-alpha02] C:\Users\SATRIA\.gradle\caches\transforms-3\e90d3817b6aa79eda0812260d30db6f7\transformed\room-ktx-2.5.0-alpha02\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.room:room-runtime:2.5.0-alpha02] C:\Users\SATRIA\.gradle\caches\transforms-3\f1beabf0288bfba0c67d73c6fce90667\transformed\room-runtime-2.5.0-alpha02\AndroidManifest.xml:21:5-22:38
+MERGED from [androidx.room:room-runtime:2.5.0-alpha02] C:\Users\SATRIA\.gradle\caches\transforms-3\f1beabf0288bfba0c67d73c6fce90667\transformed\room-runtime-2.5.0-alpha02\AndroidManifest.xml:21:5-22:38
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.5.0] C:\Users\SATRIA\.gradle\caches\transforms-3\c350abaf7e840bdeb2006d9753c5d048\transformed\lifecycle-livedata-ktx-2.5.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.5.0] C:\Users\SATRIA\.gradle\caches\transforms-3\c350abaf7e840bdeb2006d9753c5d048\transformed\lifecycle-livedata-ktx-2.5.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.datastore:datastore-preferences:1.0.0] C:\Users\SATRIA\.gradle\caches\transforms-3\0fd162372b0216ee2e8bb71663eaf89d\transformed\datastore-preferences-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.datastore:datastore-preferences:1.0.0] C:\Users\SATRIA\.gradle\caches\transforms-3\0fd162372b0216ee2e8bb71663eaf89d\transformed\datastore-preferences-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.datastore:datastore:1.0.0] C:\Users\SATRIA\.gradle\caches\transforms-3\97de323d9fdd6660893aabd349d89e23\transformed\datastore-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.datastore:datastore:1.0.0] C:\Users\SATRIA\.gradle\caches\transforms-3\97de323d9fdd6660893aabd349d89e23\transformed\datastore-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.5.0] C:\Users\SATRIA\.gradle\caches\transforms-3\732b8f550766e910e053060bd0697c5a\transformed\navigation-fragment-2.5.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.5.0] C:\Users\SATRIA\.gradle\caches\transforms-3\732b8f550766e910e053060bd0697c5a\transformed\navigation-fragment-2.5.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.5.0] C:\Users\SATRIA\.gradle\caches\transforms-3\b9eff171e8238141b19d481975d9f07d\transformed\fragment-ktx-1.5.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.5.0] C:\Users\SATRIA\.gradle\caches\transforms-3\b9eff171e8238141b19d481975d9f07d\transformed\fragment-ktx-1.5.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui-ktx:2.5.0] C:\Users\SATRIA\.gradle\caches\transforms-3\c318262346514b5efad0427726098b72\transformed\navigation-ui-ktx-2.5.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui-ktx:2.5.0] C:\Users\SATRIA\.gradle\caches\transforms-3\c318262346514b5efad0427726098b72\transformed\navigation-ui-ktx-2.5.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.5.0] C:\Users\SATRIA\.gradle\caches\transforms-3\ff12dd874eff27b22f17f09761a78869\transformed\navigation-runtime-ktx-2.5.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.5.0] C:\Users\SATRIA\.gradle\caches\transforms-3\ff12dd874eff27b22f17f09761a78869\transformed\navigation-runtime-ktx-2.5.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.5.0] C:\Users\SATRIA\.gradle\caches\transforms-3\37260fe09896252375414f26121727e0\transformed\navigation-ui-2.5.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.5.0] C:\Users\SATRIA\.gradle\caches\transforms-3\37260fe09896252375414f26121727e0\transformed\navigation-ui-2.5.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.5.0] C:\Users\SATRIA\.gradle\caches\transforms-3\31f3ebc669896107aaf5e01f08000a75\transformed\navigation-runtime-2.5.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.5.0] C:\Users\SATRIA\.gradle\caches\transforms-3\31f3ebc669896107aaf5e01f08000a75\transformed\navigation-runtime-2.5.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.5.0] C:\Users\SATRIA\.gradle\caches\transforms-3\f9baf9e33449903e337a67cfea3d64b0\transformed\activity-ktx-1.5.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.5.0] C:\Users\SATRIA\.gradle\caches\transforms-3\f9baf9e33449903e337a67cfea3d64b0\transformed\activity-ktx-1.5.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.5.0] C:\Users\SATRIA\.gradle\caches\transforms-3\e01f3263606d4d1ac7ecb17f582bdae8\transformed\navigation-common-ktx-2.5.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.5.0] C:\Users\SATRIA\.gradle\caches\transforms-3\e01f3263606d4d1ac7ecb17f582bdae8\transformed\navigation-common-ktx-2.5.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.5.0] C:\Users\SATRIA\.gradle\caches\transforms-3\673c650e737e3357b1e060be7c78518c\transformed\navigation-common-2.5.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.5.0] C:\Users\SATRIA\.gradle\caches\transforms-3\673c650e737e3357b1e060be7c78518c\transformed\navigation-common-2.5.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.5.0] C:\Users\SATRIA\.gradle\caches\transforms-3\972b8ac7a30dd8da61511efe9dbef8b8\transformed\lifecycle-viewmodel-ktx-2.5.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.5.0] C:\Users\SATRIA\.gradle\caches\transforms-3\972b8ac7a30dd8da61511efe9dbef8b8\transformed\lifecycle-viewmodel-ktx-2.5.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.5.0] C:\Users\SATRIA\.gradle\caches\transforms-3\d37c5cc384e68df3915676d322eaefaa\transformed\lifecycle-runtime-ktx-2.5.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.5.0] C:\Users\SATRIA\.gradle\caches\transforms-3\d37c5cc384e68df3915676d322eaefaa\transformed\lifecycle-runtime-ktx-2.5.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] C:\Users\SATRIA\.gradle\caches\transforms-3\985492afd4cd643de2f16687a380404c\transformed\slidingpanelayout-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] C:\Users\SATRIA\.gradle\caches\transforms-3\985492afd4cd643de2f16687a380404c\transformed\slidingpanelayout-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0] C:\Users\SATRIA\.gradle\caches\transforms-3\f345d774bfe5fedb039f0a28cd929b2c\transformed\window-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0] C:\Users\SATRIA\.gradle\caches\transforms-3\f345d774bfe5fedb039f0a28cd929b2c\transformed\window-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.hilt:hilt-lifecycle-viewmodel:1.0.0-alpha03] C:\Users\SATRIA\.gradle\caches\transforms-3\3d4813ec5c64e6bd4c4d8eca7ae7cd6f\transformed\hilt-lifecycle-viewmodel-1.0.0-alpha03\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.hilt:hilt-lifecycle-viewmodel:1.0.0-alpha03] C:\Users\SATRIA\.gradle\caches\transforms-3\3d4813ec5c64e6bd4c4d8eca7ae7cd6f\transformed\hilt-lifecycle-viewmodel-1.0.0-alpha03\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.dagger:hilt-android:2.40] C:\Users\SATRIA\.gradle\caches\transforms-3\0be5aca8a7fd3f0789105bab4b3f41ee\transformed\hilt-android-2.40\AndroidManifest.xml:18:3-42
+MERGED from [com.google.dagger:hilt-android:2.40] C:\Users\SATRIA\.gradle\caches\transforms-3\0be5aca8a7fd3f0789105bab4b3f41ee\transformed\hilt-android-2.40\AndroidManifest.xml:18:3-42
+MERGED from [com.google.android.material:material:1.6.1] C:\Users\SATRIA\.gradle\caches\transforms-3\cafcbfb59a1afda3963fc1889c762531\transformed\material-1.6.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.6.1] C:\Users\SATRIA\.gradle\caches\transforms-3\cafcbfb59a1afda3963fc1889c762531\transformed\material-1.6.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\SATRIA\.gradle\caches\transforms-3\e02c3afd489b2885f7a061ddfa03071c\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\SATRIA\.gradle\caches\transforms-3\e02c3afd489b2885f7a061ddfa03071c\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.4.2] C:\Users\SATRIA\.gradle\caches\transforms-3\429e6faa72df009b3b9f33088e207122\transformed\appcompat-1.4.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.4.2] C:\Users\SATRIA\.gradle\caches\transforms-3\429e6faa72df009b3b9f33088e207122\transformed\appcompat-1.4.2\AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.bumptech.glide:glide:4.13.2] C:\Users\SATRIA\.gradle\caches\transforms-3\4c4d2bd332a14e1d57cb43ab9c1fef0a\transformed\glide-4.13.2\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.13.2] C:\Users\SATRIA\.gradle\caches\transforms-3\4c4d2bd332a14e1d57cb43ab9c1fef0a\transformed\glide-4.13.2\AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\SATRIA\.gradle\caches\transforms-3\74123350abdad2bb9996520446380138\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\SATRIA\.gradle\caches\transforms-3\74123350abdad2bb9996520446380138\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.5.0] C:\Users\SATRIA\.gradle\caches\transforms-3\19550a046d78c03263587734756669c2\transformed\fragment-1.5.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.5.0] C:\Users\SATRIA\.gradle\caches\transforms-3\19550a046d78c03263587734756669c2\transformed\fragment-1.5.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.5.0] C:\Users\SATRIA\.gradle\caches\transforms-3\8cf2780d854872c3d049db714e7c2092\transformed\activity-1.5.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.5.0] C:\Users\SATRIA\.gradle\caches\transforms-3\8cf2780d854872c3d049db714e7c2092\transformed\activity-1.5.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\SATRIA\.gradle\caches\transforms-3\961e5a324c75f45cd0090468cecf8f9c\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\SATRIA\.gradle\caches\transforms-3\961e5a324c75f45cd0090468cecf8f9c\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\SATRIA\.gradle\caches\transforms-3\0921f3d307caa3abe25f502fb5b6f280\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\SATRIA\.gradle\caches\transforms-3\0921f3d307caa3abe25f502fb5b6f280\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\SATRIA\.gradle\caches\transforms-3\71d93f38784a705221aee43d1e7d3630\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\SATRIA\.gradle\caches\transforms-3\71d93f38784a705221aee43d1e7d3630\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.0] C:\Users\SATRIA\.gradle\caches\transforms-3\85730f9f155ed9c8458ae7b3461e5c85\transformed\lifecycle-viewmodel-2.5.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.0] C:\Users\SATRIA\.gradle\caches\transforms-3\85730f9f155ed9c8458ae7b3461e5c85\transformed\lifecycle-viewmodel-2.5.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.0] C:\Users\SATRIA\.gradle\caches\transforms-3\1790cc2945c600301108baf703209f8b\transformed\lifecycle-viewmodel-savedstate-2.5.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.0] C:\Users\SATRIA\.gradle\caches\transforms-3\1790cc2945c600301108baf703209f8b\transformed\lifecycle-viewmodel-savedstate-2.5.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.8.0] C:\Users\SATRIA\.gradle\caches\transforms-3\e8428ec073b91f66bf726ea88a99e3ff\transformed\core-ktx-1.8.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.8.0] C:\Users\SATRIA\.gradle\caches\transforms-3\e8428ec073b91f66bf726ea88a99e3ff\transformed\core-ktx-1.8.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\SATRIA\.gradle\caches\transforms-3\75e5a951f1383c796c803974b35ec802\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\SATRIA\.gradle\caches\transforms-3\75e5a951f1383c796c803974b35ec802\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] C:\Users\SATRIA\.gradle\caches\transforms-3\9bd65588987368c112b58df7db74b688\transformed\swiperefreshlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] C:\Users\SATRIA\.gradle\caches\transforms-3\9bd65588987368c112b58df7db74b688\transformed\swiperefreshlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\SATRIA\.gradle\caches\transforms-3\d0f22bf28b7e7a2f65093aaebef809ca\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\SATRIA\.gradle\caches\transforms-3\d0f22bf28b7e7a2f65093aaebef809ca\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\SATRIA\.gradle\caches\transforms-3\546de10b27d775e25c09202043cf848e\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\SATRIA\.gradle\caches\transforms-3\546de10b27d775e25c09202043cf848e\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.2] C:\Users\SATRIA\.gradle\caches\transforms-3\8182a2a1601ce02125795d78baea7ed6\transformed\appcompat-resources-1.4.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.2] C:\Users\SATRIA\.gradle\caches\transforms-3\8182a2a1601ce02125795d78baea7ed6\transformed\appcompat-resources-1.4.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\SATRIA\.gradle\caches\transforms-3\e79a0bacb0a816b563f506f889b5a700\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\SATRIA\.gradle\caches\transforms-3\e79a0bacb0a816b563f506f889b5a700\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\SATRIA\.gradle\caches\transforms-3\d9ceb43e2fb343981f82b98843c0a412\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\SATRIA\.gradle\caches\transforms-3\d9ceb43e2fb343981f82b98843c0a412\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] C:\Users\SATRIA\.gradle\caches\transforms-3\885a2380e4612744031984dfecf19112\transformed\emoji2-views-helper-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] C:\Users\SATRIA\.gradle\caches\transforms-3\885a2380e4612744031984dfecf19112\transformed\emoji2-views-helper-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\SATRIA\.gradle\caches\transforms-3\8b0ffd963a6855629b9e8ef79bca6760\transformed\emoji2-1.0.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\SATRIA\.gradle\caches\transforms-3\8b0ffd963a6855629b9e8ef79bca6760\transformed\emoji2-1.0.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\SATRIA\.gradle\caches\transforms-3\6fa6624b609632a1ba91e3a83fab3c07\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\SATRIA\.gradle\caches\transforms-3\6fa6624b609632a1ba91e3a83fab3c07\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\SATRIA\.gradle\caches\transforms-3\66e3b3fbb21b8766b630871ad88d9a18\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\SATRIA\.gradle\caches\transforms-3\66e3b3fbb21b8766b630871ad88d9a18\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\SATRIA\.gradle\caches\transforms-3\a83b99162a7232770aa36dff424ac407\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\SATRIA\.gradle\caches\transforms-3\a83b99162a7232770aa36dff424ac407\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.4.1] C:\Users\SATRIA\.gradle\caches\transforms-3\2f2f44564b22ebc3578e8dab17070699\transformed\transition-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.4.1] C:\Users\SATRIA\.gradle\caches\transforms-3\2f2f44564b22ebc3578e8dab17070699\transformed\transition-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.8.0] C:\Users\SATRIA\.gradle\caches\transforms-3\6564d7923b84499bd4afae17f8b385a4\transformed\core-1.8.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.8.0] C:\Users\SATRIA\.gradle\caches\transforms-3\6564d7923b84499bd4afae17f8b385a4\transformed\core-1.8.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\SATRIA\.gradle\caches\transforms-3\f1ade91d01af2124f31496edd25cf910\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\SATRIA\.gradle\caches\transforms-3\f1ade91d01af2124f31496edd25cf910\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\SATRIA\.gradle\caches\transforms-3\07021a7634e73b684c7b0b94117f14a0\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\SATRIA\.gradle\caches\transforms-3\07021a7634e73b684c7b0b94117f14a0\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.3.0-alpha03] C:\Users\SATRIA\.gradle\caches\transforms-3\79468fcd8cfe15d6ad82d9ec84e11d20\transformed\sqlite-framework-2.3.0-alpha03\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.sqlite:sqlite-framework:2.3.0-alpha03] C:\Users\SATRIA\.gradle\caches\transforms-3\79468fcd8cfe15d6ad82d9ec84e11d20\transformed\sqlite-framework-2.3.0-alpha03\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.sqlite:sqlite:2.3.0-alpha03] C:\Users\SATRIA\.gradle\caches\transforms-3\1e38c5398ac9ee249643c6549d939d0c\transformed\sqlite-2.3.0-alpha03\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.sqlite:sqlite:2.3.0-alpha03] C:\Users\SATRIA\.gradle\caches\transforms-3\1e38c5398ac9ee249643c6549d939d0c\transformed\sqlite-2.3.0-alpha03\AndroidManifest.xml:20:5-21:38
+MERGED from [com.github.bumptech.glide:gifdecoder:4.13.2] C:\Users\SATRIA\.gradle\caches\transforms-3\1ebed70494a71c3ab5dde2babd10e242\transformed\gifdecoder-4.13.2\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.13.2] C:\Users\SATRIA\.gradle\caches\transforms-3\1ebed70494a71c3ab5dde2babd10e242\transformed\gifdecoder-4.13.2\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.exifinterface:exifinterface:1.2.0] C:\Users\SATRIA\.gradle\caches\transforms-3\917e3d64453720d42c2a184f6ea14081\transformed\exifinterface-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.2.0] C:\Users\SATRIA\.gradle\caches\transforms-3\917e3d64453720d42c2a184f6ea14081\transformed\exifinterface-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\SATRIA\.gradle\caches\transforms-3\e4caf8f6f55572bf0fb5a1b885b199d8\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\SATRIA\.gradle\caches\transforms-3\e4caf8f6f55572bf0fb5a1b885b199d8\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\SATRIA\.gradle\caches\transforms-3\b3849e69e63d7d9398aa0180d443f9fa\transformed\startup-runtime-1.0.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\SATRIA\.gradle\caches\transforms-3\b3849e69e63d7d9398aa0180d443f9fa\transformed\startup-runtime-1.0.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\SATRIA\.gradle\caches\transforms-3\47e4f9d54e9508fa72b20f7e74b2bffc\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\SATRIA\.gradle\caches\transforms-3\47e4f9d54e9508fa72b20f7e74b2bffc\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\SATRIA\.gradle\caches\transforms-3\b61747f1995b5e5bcee43df6c84494d6\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\SATRIA\.gradle\caches\transforms-3\b61747f1995b5e5bcee43df6c84494d6\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.5.0] C:\Users\SATRIA\.gradle\caches\transforms-3\3cbaf3e187fb8cfd02eb895b368275b7\transformed\lifecycle-livedata-2.5.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.5.0] C:\Users\SATRIA\.gradle\caches\transforms-3\3cbaf3e187fb8cfd02eb895b368275b7\transformed\lifecycle-livedata-2.5.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.5.0] C:\Users\SATRIA\.gradle\caches\transforms-3\5b4636d90ff8d7d0318416f02803bbf5\transformed\lifecycle-livedata-core-ktx-2.5.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.5.0] C:\Users\SATRIA\.gradle\caches\transforms-3\5b4636d90ff8d7d0318416f02803bbf5\transformed\lifecycle-livedata-core-ktx-2.5.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.0] C:\Users\SATRIA\.gradle\caches\transforms-3\48876a1891f21a994207afc0db905896\transformed\lifecycle-livedata-core-2.5.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.0] C:\Users\SATRIA\.gradle\caches\transforms-3\48876a1891f21a994207afc0db905896\transformed\lifecycle-livedata-core-2.5.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.0] C:\Users\SATRIA\.gradle\caches\transforms-3\c337a7c1a0893315151c980c0588b907\transformed\lifecycle-runtime-2.5.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.0] C:\Users\SATRIA\.gradle\caches\transforms-3\c337a7c1a0893315151c980c0588b907\transformed\lifecycle-runtime-2.5.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\SATRIA\.gradle\caches\transforms-3\8a81ba00daf10719ebaf1f039e331e79\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\SATRIA\.gradle\caches\transforms-3\8a81ba00daf10719ebaf1f039e331e79\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.0] C:\Users\SATRIA\.gradle\caches\transforms-3\3c6df8026dc748e8d056e7cace669b6f\transformed\savedstate-ktx-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.0] C:\Users\SATRIA\.gradle\caches\transforms-3\3c6df8026dc748e8d056e7cace669b6f\transformed\savedstate-ktx-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] C:\Users\SATRIA\.gradle\caches\transforms-3\44345846316ffff669ac1c5cb94f9cc2\transformed\savedstate-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] C:\Users\SATRIA\.gradle\caches\transforms-3\44345846316ffff669ac1c5cb94f9cc2\transformed\savedstate-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\SATRIA\.gradle\caches\transforms-3\41f6cd3d4b43e4e0b98c444d969cdac2\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\SATRIA\.gradle\caches\transforms-3\41f6cd3d4b43e4e0b98c444d969cdac2\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\SATRIA\.gradle\caches\transforms-3\e702a0dd74c6d96e6ae841161d048cf6\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\SATRIA\.gradle\caches\transforms-3\e702a0dd74c6d96e6ae841161d048cf6\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\SATRIA\.gradle\caches\transforms-3\949c4847ef24fb7cd41faeff01d5dd08\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\SATRIA\.gradle\caches\transforms-3\949c4847ef24fb7cd41faeff01d5dd08\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\SATRIA\.gradle\caches\transforms-3\92b44b9287a2ea618af6a97638c22adb\transformed\annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\SATRIA\.gradle\caches\transforms-3\92b44b9287a2ea618af6a97638c22adb\transformed\annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.dagger:dagger-lint-aar:2.40] C:\Users\SATRIA\.gradle\caches\transforms-3\c29e71b6cca9cfa70d5af7c048cb2a64\transformed\dagger-lint-aar-2.40\AndroidManifest.xml:18:3-42
+MERGED from [com.google.dagger:dagger-lint-aar:2.40] C:\Users\SATRIA\.gradle\caches\transforms-3\c29e71b6cca9cfa70d5af7c048cb2a64\transformed\dagger-lint-aar-2.40\AndroidManifest.xml:18:3-42
+INJECTED from C:\Users\SATRIA\Documents\fakestore\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\SATRIA\Documents\fakestore\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\SATRIA\Documents\fakestore\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\SATRIA\Documents\fakestore\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\SATRIA\Documents\fakestore\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\SATRIA\Documents\fakestore\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\SATRIA\Documents\fakestore\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\SATRIA\Documents\fakestore\app\src\main\AndroidManifest.xml
+service#androidx.room.MultiInstanceInvalidationService
+ADDED from [androidx.room:room-runtime:2.5.0-alpha02] C:\Users\SATRIA\.gradle\caches\transforms-3\f1beabf0288bfba0c67d73c6fce90667\transformed\room-runtime-2.5.0-alpha02\AndroidManifest.xml:25:9-29:63
+	android:exported
+		ADDED from [androidx.room:room-runtime:2.5.0-alpha02] C:\Users\SATRIA\.gradle\caches\transforms-3\f1beabf0288bfba0c67d73c6fce90667\transformed\room-runtime-2.5.0-alpha02\AndroidManifest.xml:28:13-37
+	tools:ignore
+		ADDED from [androidx.room:room-runtime:2.5.0-alpha02] C:\Users\SATRIA\.gradle\caches\transforms-3\f1beabf0288bfba0c67d73c6fce90667\transformed\room-runtime-2.5.0-alpha02\AndroidManifest.xml:29:13-60
+	android:directBootAware
+		ADDED from [androidx.room:room-runtime:2.5.0-alpha02] C:\Users\SATRIA\.gradle\caches\transforms-3\f1beabf0288bfba0c67d73c6fce90667\transformed\room-runtime-2.5.0-alpha02\AndroidManifest.xml:27:13-43
+	android:name
+		ADDED from [androidx.room:room-runtime:2.5.0-alpha02] C:\Users\SATRIA\.gradle\caches\transforms-3\f1beabf0288bfba0c67d73c6fce90667\transformed\room-runtime-2.5.0-alpha02\AndroidManifest.xml:26:13-74
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.0.0] C:\Users\SATRIA\.gradle\caches\transforms-3\f345d774bfe5fedb039f0a28cd929b2c\transformed\window-1.0.0\AndroidManifest.xml:25:9-27:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0] C:\Users\SATRIA\.gradle\caches\transforms-3\f345d774bfe5fedb039f0a28cd929b2c\transformed\window-1.0.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0] C:\Users\SATRIA\.gradle\caches\transforms-3\f345d774bfe5fedb039f0a28cd929b2c\transformed\window-1.0.0\AndroidManifest.xml:26:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.0.0] C:\Users\SATRIA\.gradle\caches\transforms-3\f345d774bfe5fedb039f0a28cd929b2c\transformed\window-1.0.0\AndroidManifest.xml:28:9-30:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0] C:\Users\SATRIA\.gradle\caches\transforms-3\f345d774bfe5fedb039f0a28cd929b2c\transformed\window-1.0.0\AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0] C:\Users\SATRIA\.gradle\caches\transforms-3\f345d774bfe5fedb039f0a28cd929b2c\transformed\window-1.0.0\AndroidManifest.xml:29:13-51
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\SATRIA\.gradle\caches\transforms-3\8b0ffd963a6855629b9e8ef79bca6760\transformed\emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\SATRIA\.gradle\caches\transforms-3\e4caf8f6f55572bf0fb5a1b885b199d8\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\SATRIA\.gradle\caches\transforms-3\e4caf8f6f55572bf0fb5a1b885b199d8\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\SATRIA\.gradle\caches\transforms-3\b3849e69e63d7d9398aa0180d443f9fa\transformed\startup-runtime-1.0.0\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\SATRIA\.gradle\caches\transforms-3\b3849e69e63d7d9398aa0180d443f9fa\transformed\startup-runtime-1.0.0\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\SATRIA\.gradle\caches\transforms-3\8b0ffd963a6855629b9e8ef79bca6760\transformed\emoji2-1.0.0\AndroidManifest.xml:30:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\SATRIA\.gradle\caches\transforms-3\8b0ffd963a6855629b9e8ef79bca6760\transformed\emoji2-1.0.0\AndroidManifest.xml:28:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\SATRIA\.gradle\caches\transforms-3\8b0ffd963a6855629b9e8ef79bca6760\transformed\emoji2-1.0.0\AndroidManifest.xml:29:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\SATRIA\.gradle\caches\transforms-3\8b0ffd963a6855629b9e8ef79bca6760\transformed\emoji2-1.0.0\AndroidManifest.xml:27:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\SATRIA\.gradle\caches\transforms-3\8b0ffd963a6855629b9e8ef79bca6760\transformed\emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\SATRIA\.gradle\caches\transforms-3\8b0ffd963a6855629b9e8ef79bca6760\transformed\emoji2-1.0.0\AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\SATRIA\.gradle\caches\transforms-3\8b0ffd963a6855629b9e8ef79bca6760\transformed\emoji2-1.0.0\AndroidManifest.xml:32:17-75
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\SATRIA\.gradle\caches\transforms-3\e4caf8f6f55572bf0fb5a1b885b199d8\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\SATRIA\.gradle\caches\transforms-3\e4caf8f6f55572bf0fb5a1b885b199d8\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\SATRIA\.gradle\caches\transforms-3\e4caf8f6f55572bf0fb5a1b885b199d8\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78
